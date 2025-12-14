@@ -29,3 +29,4 @@ car1.acc()
 car2 = Car()
 car1.carModel = "venue"
 car2.acc()
+car1.acc()
